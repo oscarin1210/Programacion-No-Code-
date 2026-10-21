@@ -1,0 +1,43 @@
+GitHub User Manual
+
+1. What is GitHub?
+
+GitHub is an online platform where people can store code, share projects, and work together.
+
+2. What is a Repository?
+
+A repository is a place where project files, code, and documentation are stored.
+
+3. What is Git?
+
+Git is a tool that tracks changes in files and helps developers manage different versions of a project.
+
+4. How to Create a Repository
+
+1. Open https://github.com/.
+2. Sign in to your account.
+3. Click the + button and select New repository.
+4. Write a repository name.
+5. Choose Public or Private.
+6. Click Create repository.
+
+5. How to Clone a Repository
+
+1. Open a GitHub repository.
+2. Click the Code button.
+3. Copy the HTTPS link.
+4. Open a terminal on your computer.
+5. Type the following command:
+    git clone REPOSITORY_URL
+6. Replace REPOSITORY_URL with the link you copied.
+
+6. Important Git Commands
+
+* git --version: Check if Git is installed.
+* git clone URL: Download a repository.
+* git status: Check the current changes.
+* git pull: Download the latest changes.
+
+7. Conclusion
+
+GitHub is useful for learning programming, sharing code, and working with other developers. Git helps track changes, while repositories organize project files.
